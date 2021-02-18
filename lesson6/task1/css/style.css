@@ -1,0 +1,10 @@
+img{
+    margin-right: 100px;
+    
+}
+.img__large--0,.img__large--1,.img__large--2{
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    display: none;
+}
